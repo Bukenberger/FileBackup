@@ -1,4 +1,4 @@
 # File-Backup
 
 ## Description
-C++ program using the filesystem library to backup files to a specified directory
+C++11 program which uses the filesystem library to backup files to a specified directory
