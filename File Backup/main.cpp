@@ -1,7 +1,7 @@
 /*
 Author: Teran Bukenberger
 Date: 2018-09-23
-Project: filebackup.cpp
+Project: main.cpp
 Description: Parses drive and creates backup files, using the FileManager and File classes and their implementations
 */
 
